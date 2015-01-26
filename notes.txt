@@ -1,0 +1,7 @@
+Needed to replace following line
+
+source 'https://rubygems.org'
+
+with 
+
+source 'http://rubygems.org' in Gemfile
